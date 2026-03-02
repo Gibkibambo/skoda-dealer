@@ -675,4 +675,10 @@ footer {
   .mail-info::before {
     left:10px;
   }
+
+}
+@media (min-width: 1550px) {
+  .card-button {
+    margin-top: 0;
+  }
 }
